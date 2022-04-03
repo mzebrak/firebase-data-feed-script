@@ -1,0 +1,5 @@
+*.egg-info/
+.idea/
+venv/
+credentials.json
+download/
